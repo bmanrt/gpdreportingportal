@@ -1,0 +1,8 @@
+streamlit
+fpdf
+streamlit
+fpdf
+pandas
+numpy
+matplotlib
+xlsxwriter
